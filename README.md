@@ -18,7 +18,9 @@ The dataset consists of the following key variables:
 
 # The K-Means Clustering
 This project applies K-Means Clustering, a widely used unsupervised machine learning algorithm, to analyze and group countries from the World Happiness Report 2015 dataset. By using clustering techniques, the project aims to identify natural groupings among countries that exhibit similar happiness profiles.
+
 **The Using of K-Means Clustering**
+
 The main purpose of this project is to discover hidden patterns and structures within the dataset by grouping countries into clusters based on the similarity of their happiness-related features. K-Means allows for dimensionality reduction in interpretation, providing insights into how different countries compare to one another in terms of well-being. These findings can be used to inform policy recommendations, regional comparisons, and further sociological or economic research.
 **The Main Insight**
 This project addresses the challenge of analyzing high-dimensional, unlabeled data. The World Happiness dataset does not come with predefined categories, making it difficult to draw conclusions about similarities or differences across countries. K-Means Clustering solves this by partitioning the data into k groups, where each country is assigned to the cluster with the nearest mean value of all selected indicators. This approach enables:
